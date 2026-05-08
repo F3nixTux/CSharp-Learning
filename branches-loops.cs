@@ -17,7 +17,7 @@ void ExploreIf()
         Console.WriteLine("The answer is not greater than 10");
     }
 
-    Console.WriteLine("\n");
+    Console.WriteLine();
 
     int c = 4;
     
@@ -33,7 +33,7 @@ void ExploreIf()
         Console.WriteLine("Or the first number is not greater than the second");
     }
 
-    Console.WriteLine("\n");
+    Console.WriteLine("");
 
     // Check if the sum of a, b, and c is greater than 10 OR a is greater than b
     if ((a + b + c > 10) || (a > b))
@@ -47,7 +47,7 @@ void ExploreIf()
         Console.WriteLine("And the first number is not greater than the second");
     }
 
-    Console.WriteLine("\n");
+    Console.WriteLine("");
 
 }
 
@@ -62,7 +62,7 @@ do
 }
 while (counter < 10);
 
-Console.WriteLine("\n");
+Console.WriteLine("");
 
 // For loop: iterate from 0 to 9, printing the counter each time
 for (int i = 0; i < 10; i++)
@@ -70,7 +70,7 @@ for (int i = 0; i < 10; i++)
     Console.WriteLine($"Hello World! The counter is {i}");
 }
 
-Console.WriteLine("\n");
+Console.WriteLine("");
 
 // Nested for loops: iterate over rows (1 to 10) and columns (a to j)
 for (int row = 1; row < 11; row++)
@@ -82,7 +82,7 @@ for (int row = 1; row < 11; row++)
     }
 }
 
-Console.WriteLine("\n");
+Console.WriteLine("");
 
 // Challenge 
 // Find if sum of integers from 1 to 20 is divisible by 3
