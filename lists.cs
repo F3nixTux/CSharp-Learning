@@ -1,5 +1,4 @@
-using System;
-using System.Collections.Generic;
+#!/usr/bin/env dotnet
 
 List<string> names = new List<string> {"<name>", "Ana", "Felipe"};
 foreach (var name in names)

@@ -1,3 +1,5 @@
+#!/usr/bin/env dotnet
+
 // Call the ExploreIf function to demonstrate if-else statements
 ExploreIf();
 

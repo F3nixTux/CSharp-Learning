@@ -1,6 +1,4 @@
-using System;
-using System.Runtime.CompilerServices;
-using Microsoft.VisualBasic;
+#!/usr/bin/env dotnet
 
 Console.WriteLine("Hello, World!");
 

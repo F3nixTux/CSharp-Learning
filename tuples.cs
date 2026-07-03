@@ -1,3 +1,5 @@
+#!/usr/bin/env dotnet
+
 // Create a named tuple with X and Y coordinates
 var pt = (X: 1, Y: 2);
 

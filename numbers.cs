@@ -1,3 +1,5 @@
+#!/usr/bin/env dotnet
+
 void WorkWithIntegers()
 {
     int a = 18;

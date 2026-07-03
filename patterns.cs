@@ -1,3 +1,5 @@
+#!/usr/bin/env dotnet
+
 string bankRecords = """
     DEPOSIT,   10000, Initial balance
     DEPOSIT,     500, regular deposit
